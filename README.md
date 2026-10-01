@@ -11,7 +11,7 @@ Over 4 years of experience engineering high-performance, cross-platform mobile a
 
 * **Mobile Development:** React Native, React Native CLI, Expo, React Navigation, Redux, Redux Toolkit, Context API, AsyncStorage, Native Modules
 * **Languages & Web:** JavaScript (ES6+), TypeScript, React.js, Next.js, HTML5, CSS3
-* **Backend & Databases:** Node.js, REST APIs, Firebase, MongoDB, Sockets, Payment Gateways, Push Notifications
+* **Backend & Databases:** Node.js,GraphQL,Apollo Client, REST APIs, Firebase, MongoDB, Sockets, Payment Gateways, Push Notifications
 * **Testing & Tools:** Jest, Unit Testing, Performance Optimization, VS Code, Android Studio, Xcode, Git, GitHub, GitLab
 * **Methodologies & Utilities:** Clean Architecture, SOLID, Agile/Scrum, GitHub Copilot, ChatGPT, Claude
 
