@@ -1,6 +1,6 @@
 # Hi there, I'm Amit Kumar Singh 👋
 
-**React Native Developer | Cross-Platform Mobile Application Specialist**  
+**React Native Developer |React | MERN | Cross-Platform Mobile Application Specialist**  
 📍 Based in Kolkata, West Bengal, India
 
 Over 4 years of experience engineering high-performance, cross-platform mobile applications for **Android** and **iOS** using **React Native**, **JavaScript (ES6+)**, **TypeScript**, and **Redux Toolkit**. Passionate about clean mobile architecture, pixel-perfect UI, and performance optimization.
