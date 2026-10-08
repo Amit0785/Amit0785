@@ -36,6 +36,7 @@ Over 4 years of experience engineering high-performance, cross-platform mobile a
 ## 🎓 Education & Certifications
 
 * **B.Tech in Electronics & Telecommunication Engineering** – WBUT (2014)
+* **API Orchestration - Associate** – Apollo GraphQL (October 2026)
 * **Prompt Engineering Certificate** – Infosys Springboard (July 2026)
 * **AI Tools and ChatGPT Workshop** – Be10X (June 2026)
 
@@ -47,9 +48,3 @@ Over 4 years of experience engineering high-performance, cross-platform mobile a
 * 💼 **LinkedIn:** [linkedin.com/in/amit-kumar-singh-89138694](https://linkedin.com/in/amit-kumar-singh-89138694)
 * 📧 **Email:** [amitsingh0785@gmail.com](mailto:amitsingh0785@gmail.com)
 * 🐙 **GitHub:** [github.com/Amit0785](https://github.com/Amit0785)
-
----
-### 📊 GitHub Stats
-
-![Amit's GitHub Stats](https://github.com/anuraghazra/github-readme-stats/tree/master/api?username=Amit0785&show_icons=true&theme=radial)
-![Top Languages](https://github.com/anuraghazra/github-readme-stats/tree/master/api/top-langs/?username=Amit0785&layout=compact&theme=radial)
