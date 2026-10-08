@@ -49,10 +49,7 @@ Over 4 years of experience engineering high-performance, cross-platform mobile a
 * 🐙 **GitHub:** [github.com/Amit0785](https://github.com/Amit0785)
 
 ---
-
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
-![Amit's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Amit0785&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Amit0785&layout=compact&theme=radial)
+![Amit's GitHub Stats](https://github.com/anuraghazra/github-readme-stats/tree/master/api?username=Amit0785&show_icons=true&theme=radial)
+![Top Languages](https://github.com/anuraghazra/github-readme-stats/tree/master/api/top-langs/?username=Amit0785&layout=compact&theme=radial)
